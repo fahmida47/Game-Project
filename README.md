@@ -21,14 +21,14 @@ When times up, the level will start from first.
 
 
 ## Project Details
-IDE: Visual studio 2010
+IDE: Visual studio 2013
 
 Language: C.
 
 Platform : Windows Laptop.
 
 Make sure you have the following installed:
-- **Visual Studio 2010**
+- **Visual Studio 2013**
 
 
 Open the project in Visual Studio 2010
