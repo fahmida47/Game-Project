@@ -49,5 +49,5 @@ Open the project in Visual Studio 2010
 ## Youtube Link
 [CSE 1200 Project: The Meow Escape](https://youtu.be/J63XszFzsgg)
 
-## Project Report
+## Project File
 [Project Report: The Meow Escape](https://drive.google.com/file/d/1euQ8iCcHyorhlqpa8uepqrnml2v5kDMc/view?usp=drivesdk)
