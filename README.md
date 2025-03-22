@@ -50,4 +50,4 @@ Open the project in Visual Studio 2010
 [CSE 1200 Project: The Meow Escape](https://youtu.be/J63XszFzsgg)
 
 ## Project Report
-[Project Report: The Meow Escape](file:///C:/Users/hp/Desktop/iGraphics/Game%20Report/The%20Meow%20Escape(Final).pdf)
+[Project Report: The Meow Escape](http://file:///C:/Users/hp/Desktop/iGraphics/Game%20Report/The%20Meow%20Escape(Final).pdf)
